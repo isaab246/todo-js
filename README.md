@@ -1,16 +1,5 @@
-# Webpack starter
+# TODO List App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Este es un proyecto de una aplicacion TODO list creada
+en javascript
 
-### Notas:
-Recuerden reconstruir los modulos de node
-
-```
-    npm install
-```
-
-Y para construir el build, recuerden:
-
-```
-    npm run build
-```
